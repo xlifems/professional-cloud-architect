@@ -17,10 +17,10 @@ examine billing of Google Cloud resources. Lastly, we’ll talk about resource m
 will monitor Google Cloud resources using Google Cloud’s operations suite. Here are the
 modules of the course:
 
-1. Identity and Access Management (IAM)
-2. Data Storage Services
-3. Resource Management
-4. Resource Monitoring
+  1. [Identity and Access Management (IAM)](#type)
+  1. [Data Storage Services](#references)
+  1. [Resource Management](#objects)
+  1. [Resource Monitoring](#arrays) 
 
 After you complete this course, I recommend enrolling in the Elastic Cloud Infrastructure:
 Scaling and Automation course, which enhances your study of architecting with Compute
